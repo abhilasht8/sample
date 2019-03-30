@@ -1,6 +1,6 @@
 second file on branch2
 
-.. commit from branch2--abhi
+.. commit from branch2--abhilash
 
 ....commit from branch_1
 
